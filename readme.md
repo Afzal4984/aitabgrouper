@@ -80,7 +80,8 @@ Version 1.1.1
 
 ## About authors
 
-- [Pankil Soni](https://github.com/pankil-soni) - AI Tab Grouper creator
+- [Sanket Dhumal](https://github.com/Sanket3670) - AI Tab Grouper creator
+- [Ashish Kodumuru](https://github.com/ASHISH15012005) -AI Tab Grouper creator
 
 ## 🙌 Acknowledgments
 
