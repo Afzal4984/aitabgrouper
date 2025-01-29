@@ -1,6 +1,6 @@
 # 🚀 **AI Tab Grouper**
 
-AI Tab Grouper is a powerful browser extension designed to help users manage their open tabs efficiently. By leveraging AI technology, it automatically groups tabs into categories, making it easier to navigate and organize your browsing experience.
+AI Tab Grouper is a powerful browser extension designed to help users manage their open tabs efficiently. By leveraging AI technology, it automatically groups tabs into categories, making it easier to navigate and organize your browsing experience..
 
 ## 🌐 Published Extension
 
