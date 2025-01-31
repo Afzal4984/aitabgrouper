@@ -20,7 +20,7 @@ You can find and install the AI Tab Grouper extension from the Chrome Web Store:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ASHISH15012005/ai-tab-grouper.git
+   git clone https://github.com/Afzal4984/ai-tab-grouper.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -75,7 +75,7 @@ Version 1.1.1
 ## About authors
 
 - [Sanket Dhumal](https://github.com/Sanket3670) - AI Tab Grouper creator
-- [Ashish Kodumuru](https://github.com/ASHISH15012005) -AI Tab Grouper creator
+- [Ashish Kodumuru](https://github.com/ASHISH15012005) -Web Developer
 
 ## 🙌 Acknowledgments
 
