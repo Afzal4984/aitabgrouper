@@ -15,18 +15,12 @@ You can find and install the AI Tab Grouper extension from the Chrome Web Store:
 - **User-Friendly Interface**: Intuitive UI that enhances user experience.
 - **Cross-Browser Compatibility**: Works seamlessly on multiple browsers.
 
-## 📸 Screenshots
-
-![extension-home](screenshots/home.png)
-![settings-modal](screenshots/settings.png)
-![ai-grouping](screenshots/grouping.png)
-
 
 ## 🛠 Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-tab-grouper.git
+   git clone https://github.com/ASHISH15012005/ai-tab-grouper.git
    ```
 2. Navigate to the project directory:
    ```bash
